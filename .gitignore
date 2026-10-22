@@ -1,0 +1,16 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm settings
+.idea/
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
